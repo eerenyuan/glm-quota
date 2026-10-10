@@ -1,0 +1,15 @@
+# Sensitive config
+config.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Preview / temp images
+preview*.png
+preview.png
+
+# OS
+.DS_Store
+Thumbs.db
