@@ -6,9 +6,8 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Preview / temp images
-preview*.png
-preview.png
+# Temp preview images (keep preview.png for README)
+preview_*.png
 
 # OS
 .DS_Store
